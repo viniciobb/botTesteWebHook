@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/viniciobb/botTesteWebHook/issues"
   },
-  "homepage": "https://github.com/viniciobb/botTesteWebHook#readme"
+  "homepage": "https://github.com/viniciobb/botTesteWebHook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
